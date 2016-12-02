@@ -16,6 +16,17 @@ get the latest version here:
 * [XKOM](http://forum.kerbalspaceprogram.com/index.php?/topic/132820-wip113-xkom-interceptors-update-the-raven-takes-flight) by njmksr
   * Skyranger Fuselage
 
+## Side-Notes
+* First of all, these configs are free to use!
+* I hope it's ok that these modifications are reasonable after all, since mods shall improve the game at all.
+* standard rates (100% efficiency set) --> the hitchy has 400 units snacks and 100 units max soil capacity means 4 units snacks to 1 unit soil in capacity
+* I tried to follow the original Hitchy settings and added some improvements on the mod parts, better parts, fancier looking, improved functionality
+* some parts have a higher power usage but also convert/recycle soil (same capacity of soil tho)
+* I made AutoShutdown = true just to make sure snacks do not waste into space or on the celestial body :)
+* the K&K Greenhouse Container has the standard rate like the Hitchy but no storage of snacks or soil so make sure you have these containers/parts
+
+Feedback is very welcome, happy soil converting! :)
+
 ## ToDo
 - [x] more Koffee!
 - [ ] more parts (eventually)
