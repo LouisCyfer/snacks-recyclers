@@ -8,7 +8,7 @@ get the latest version here:
 ## Current included mod-support (parts):
 * [Modular Kolonization System (MKS)](https://github.com/BobPalmer/MKS) by RoverDude
   * Tundra RecyclingPlant
-* [Near Future Spacecraft](https://github.com/ChrisAdderley/NearFutureSpacecraft) ny ChrisAdderley
+* [Near Future Spacecraft](https://github.com/ChrisAdderley/NearFutureSpacecraft) by ChrisAdderley
   * PPD-24 Itinerant Service Container
 * [Kerbal Planetary Base Systems](https://github.com/Nils277/KerbalPlanetaryBaseSystems) by Nils277
   * K&K Planetary Greenhouse
