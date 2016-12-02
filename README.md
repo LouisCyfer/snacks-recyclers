@@ -7,11 +7,11 @@ get the latest version here:
 
 ## Current included mod-support (parts):
 * [Modular Kolonization System (MKS)](https://github.com/BobPalmer/MKS) by RoverDude
-  * Tundra RecyclingPlant
+  * Tundra RecyclingPlant (13.82 Soil/day @ 25ec/sec)
 * [Near Future Spacecraft](https://github.com/ChrisAdderley/NearFutureSpacecraft) by ChrisAdderley
-  * PPD-24 Itinerant Service Container
+  * PPD-24 Itinerant Service Container (6.91 Soil/day @ 15ec/sec)
 * [Kerbal Planetary Base Systems](https://github.com/Nils277/KerbalPlanetaryBaseSystems) by Nils277
-  * K&K Planetary Greenhouse
+  * K&K Planetary Greenhouse (13.82 Soil/day @ 25ec/sec)
   * K&K Greenhouse Container
 * [XKOM](http://forum.kerbalspaceprogram.com/index.php?/topic/132820-wip113-xkom-interceptors-update-the-raven-takes-flight) by njmksr
   * Skyranger Fuselage
