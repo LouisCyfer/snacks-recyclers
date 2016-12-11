@@ -5,7 +5,11 @@ get the latest version here:
 * [Snacks! - KSP Forum](http://forum.kerbalspaceprogram.com/index.php?/topic/149604-12-snacks-continued-v160-friendly-simplified-life-support/)
 * [Snacks! - GitHub](https://github.com/Angel-125/Snacks)
 
-## Current included mod-support (parts):
+## Current modifications:
+* Stock
+  * ISRU (2.5m) Soil --> Mulch  (available if you have [USI Life Support (USI-LS)](https://github.com/BobPalmer/USI-LS) by RoverDude)
+  * ISRU (2.5m) Soil --> Recyclables (available if you have [Modular Kolonization System (MKS)](https://github.com/BobPalmer/MKS) by RoverDude)
+  * ISRU (2.5m) SoilSplitter (Recyclables, Mulch) (available if you have MKS & USI-LS)
 * [Modular Kolonization System (MKS)](https://github.com/BobPalmer/MKS) by RoverDude
   * Tundra RecyclingPlant (13.82 Soil/day @ 25ec/sec)
 * [Near Future Spacecraft](https://github.com/ChrisAdderley/NearFutureSpacecraft) by ChrisAdderley
