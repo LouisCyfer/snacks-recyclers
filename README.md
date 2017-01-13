@@ -7,9 +7,9 @@ get the latest version here:
 
 ## Current modifications:
 * Stock
-  * ISRU (2.5m & 0.625/mini) Soil --> Mulch  (available if you have [USI Life Support (USI-LS)](https://github.com/BobPalmer/USI-LS) by RoverDude)
-  * ISRU (2.5m & 0.625/mini) Soil --> Recyclables (available if you have [Modular Kolonization System (MKS)](https://github.com/BobPalmer/MKS) by RoverDude)
-  * ISRU (2.5m & 0.625/mini) SoilSplitter (Recyclables, Mulch) (available if you have MKS & USI-LS)
+  * ISRU (2.5m & 1.25m) Soil --> Mulch  (available if you have [USI Life Support (USI-LS)](https://github.com/BobPalmer/USI-LS) by RoverDude)
+  * ISRU (2.5m & 1.25m) Soil --> Recyclables (available if you have [Modular Kolonization System (MKS)](https://github.com/BobPalmer/MKS) by RoverDude)
+  * ISRU (2.5m & 1.25m) SoilSplitter (Recyclables, Mulch) (available if you have MKS & USI-LS)
 * [Modular Kolonization System (MKS)](https://github.com/BobPalmer/MKS) by RoverDude
   * Tundra RecyclingPlant (13.82 Soil/day @ 25ec/sec)
 * [Near Future Spacecraft](https://github.com/ChrisAdderley/NearFutureSpacecraft) by ChrisAdderley
