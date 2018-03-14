@@ -17,6 +17,9 @@ get the latest version here:
 * [Kerbal Planetary Base Systems](https://github.com/Nils277/KerbalPlanetaryBaseSystems) by Nils277
   * K&K Planetary Greenhouse (13.82 Soil/day @ 25ec/sec)
   * K&K Greenhouse Container
+* [Stockalike Mining Extension](https://github.com/SuicidalInsanity/Stockalike-Mining-Extension) by SuicidalInsanity
+  * SMX_Size0ISRU
+  * SMX_Size3ISRU
 * [XKOM](http://forum.kerbalspaceprogram.com/index.php?/topic/132820-wip113-xkom-interceptors-update-the-raven-takes-flight) by njmksr
   * Skyranger Fuselage
 
@@ -33,5 +36,5 @@ Feedback is very welcome, happy soil converting! :)
 
 ## ToDo
 - [x] more Koffee!
-- [ ] more parts (eventually)
+- [x] more parts (eventually)
 - [ ] more recycling-fun!
