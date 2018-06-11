@@ -1,3 +1,6 @@
+# NOTICE:
+the development of this mod moved to [GitLab](https://gitlab.com/LouisCyfer/snacks-recyclers)
+
 This repository contains optional recycler-configurations for Snacks! (created by [tgruetzm](https://github.com/tgruetzm) continued by [Angel-125](https://github.com/Angel-125)).
 
 ## Dependencies
